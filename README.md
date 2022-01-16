@@ -1,2 +1,2 @@
 # ReactDjango_1
-React et Django use REST framwork
+React et Django use REST framwork by MySQL
